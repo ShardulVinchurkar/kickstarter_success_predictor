@@ -1,4 +1,4 @@
-## Shardul Vinchurkar AI Interview Code
+## Kickstarter project success predictor
 
 This application reads the kickstarter data and predicts the success/faliure of any given project.
 
